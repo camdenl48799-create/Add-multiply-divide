@@ -12,6 +12,7 @@ Open `index.html` in a modern browser. No install, build step, account, or API k
 - Multiplication memory match
 - Balloon Pop and Times-Table Sprint
 - 3×3 Speed Escape: solve math locks to navigate the grid and reach the exit
+- Built-in AllInMath assistant with a chat interface, arithmetic answers, worked steps, concept explanations, and practice prompts
 - Printable 1–10 or 1–12 multiplication chart
 - Local progress statistics saved in the browser
 - Responsive layout for phones, tablets, and desktops
@@ -25,5 +26,5 @@ Open `index.html` in a modern browser. No install, build step, account, or API k
 
 ## Notes
 - The site is built with plain HTML, CSS, and JavaScript.
-- It has no external runtime dependencies and does not call an AI API.
+- It has no external runtime dependencies and does not call an AI API. AllInMath is a local, rule-based math helper in this first version—not a general-purpose cloud language model—and may not understand every word problem.
 - Progress is stored locally in each browser, so it does not sync between devices.
